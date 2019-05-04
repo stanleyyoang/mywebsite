@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(to bottom, #809bcd -25%, #090909 100%);
+}
+
+/*
+.ui.secondary.menu:hover {
+  background: rgba(0, 0, 0, 0);
+  color: white;
+}
+*/
+
+.ui.secondary.menu .dropdown.item:hover,
+.ui.secondary.menu .link.item:hover,
+.ui.secondary.menu a.item:hover,
+.ui.link.secondary.menu .item:hover {
+  background: rgba(0, 0, 0, 0);
+  color: #a3cef1;
+}
